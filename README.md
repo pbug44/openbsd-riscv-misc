@@ -7,5 +7,10 @@ A miscellaneous share where I keep some external programs
 	that was the result of me dumping memory and not finding any ELF
 	magic.
 
+* create-fs.sh 	builds a filesystem for RISC-V guest
+
+* init.S one of my first RISCV asm programs (it worked!) a hello world
+	 program for /sbin/init.
+
 * riscv-opcodes.c	makes the struct riscv64/db_disasm.c in a pretty
 			machine way.
