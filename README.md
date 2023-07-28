@@ -14,3 +14,6 @@ A miscellaneous share where I keep some external programs
 
 * riscv-opcodes.c	makes the struct riscv64/db_disasm.c in a pretty
 			machine way.
+
+* start-rv64.sh		a script I wrote to start riscv inside a QEMU emulator
+
