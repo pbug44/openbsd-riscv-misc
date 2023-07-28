@@ -38,7 +38,7 @@
 # drwxr-xr-x  2 root  wheel  512 Jun  7 15:59 old
 # lrwxr-xr-x  1 root  wheel   53 Jun  7 16:00 u-boot.bin -> /usr/local/share/u-boot/qemu-riscv64_smode/u-boot.bin
 # 
-# to do the initial install use -nographics instead of -display none, best just
+# to do the initial install use -nographic instead of -display none, best just
 # paste it without the while :
 
 while : ; do
